@@ -104,18 +104,30 @@ section p {
 footer {
   background-color: #222222;
   width: 100%;
+<<<<<<< HEAD
   height: 420px;
+=======
+  height: 250px;
+>>>>>>> 56282cf8e98bf57a7a19a14a13c62fb825bd5ca4
 
 }
 
 footer img {
+<<<<<<< HEAD
   width: 7%;
   float: left;
   margin-left: 80px;
+=======
+  width: 80px;
+  height: 80px;
+  float: left;
+  margin-left: 100px;
+>>>>>>> 56282cf8e98bf57a7a19a14a13c62fb825bd5ca4
 }
 
 .logo1 {
   margin-left: 750px;
+<<<<<<< HEAD
   margin-top: 65px;
 }
 
@@ -130,4 +142,16 @@ footer img {
   padding-top: 300px;
   padding-left: 810px;
   padding-bottom: 100px;
+=======
+  margin-top: 100px;
+}
+
+.logo2 {
+  margin-top: 100px;
+  
+}
+
+h6 {
+
+>>>>>>> 56282cf8e98bf57a7a19a14a13c62fb825bd5ca4
 }
